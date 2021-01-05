@@ -1,0 +1,19 @@
+8bit 	= 1byte
+1000bit = 1Kbit
+1000kbit = 1Mbit
+1000Mbit = 1Gbit
+1000Gbit = 1Tbit
+1000Tbit = 1Ebit
+1000Ebit = 1Hbit
+
+Ethernet Cable 성능 구분
+
+cat 1 - 4 (표준 취소)
+(EIA/TIA)
+cat 5 : 100Mbps 통신 전용
+	1Gbps 통신 지원
+cat 5e : 1Gbps 통신 지원 전용
+
+ISO(국제 표준 기구)
+cat 6 : 1Bbps 통신 전용
+cat 7 : 10Gbps 통신 전용
